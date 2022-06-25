@@ -1,9 +1,7 @@
 # # Jenkins Complete CI/CD Pipeline Demonstration # 
 # test
 # test 2
-# test conflit
-
-----------
+# jeff
 
 **Deliverables**:
 This demonstration will simulate a completely automated CI/CD deployment pipeline using Jenkins. It will essentially do the following steps (phases):
